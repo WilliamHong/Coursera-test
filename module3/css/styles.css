@@ -1,0 +1,27 @@
+.navbar{
+	background-color: blue;
+}
+
+.navbar-brand{
+	float:left;
+	margin-bottom: 40px;
+
+}
+
+section{
+	background-color: gray;
+}
+
+.navbar-brand h1{
+	float:left;
+	color: red;
+}
+
+#nav-list {
+	font-size: 2em;
+}
+
+li{
+	background-color: #2cc;
+	border: 1px solid #454;
+}
